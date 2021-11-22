@@ -1,0 +1,10 @@
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojAssemblyReference.cache
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.cache
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.CoreCompileInputs.cache
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+D:\VS Projects\Voice Recognition c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
