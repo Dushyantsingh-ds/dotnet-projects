@@ -5,6 +5,8 @@
 ### [04- upload-file-on-web]()
 ### [06- FaceDetectionWithOpenCv]()
 ### [07- Role Based Auth MVC5](https://github.com/Dushyantsingh-ds/dotnet-projects/)
+### [07- Role Based Auth MVC5](https://github.com/Dushyantsingh-ds/dotnet-projects/tree/main/Semple/07-%20RoleBasedAuthentication)
+### [08- Token Based Auth ](https://github.com/Dushyantsingh-ds/dotnet-api/tree/main/Projects/TokenBasedAuthWebApp) 
 
 
 
