@@ -7,7 +7,7 @@
 ### [07- Role Based Auth MVC5](https://github.com/Dushyantsingh-ds/dotnet-projects/tree/main/Semple/08-%20TokenBasedAuthentication)
 ### [08- Token Based Auth MVC5 + API](https://github.com/Dushyantsingh-ds/dotnet-api/tree/main/Projects/TokenBasedAuthWebApp) 
 ### [08- Based Auth Web-form VS2010(Beta)](https://github.com/Dushyantsingh-ds/dotnet-projects/tree/main/Semple/07-%20RoleBasedAuthentication)
-
+### [08- PHP Front end and .Net Core api)](https://github.com/Dushyantsingh-ds/dotnet-projects/tree/main/Semple/10-%20File%20Upload%20and%20DOwnload%20web%20api%20.Net%20Core)
 
 
 
