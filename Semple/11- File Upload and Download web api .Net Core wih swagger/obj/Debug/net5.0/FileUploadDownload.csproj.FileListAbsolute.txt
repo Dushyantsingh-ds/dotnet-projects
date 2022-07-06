@@ -1,0 +1,76 @@
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.exe
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.deps.json
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.dll
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\user\source\repos\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.xml
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.dll
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\user\source\repos\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\appsettings.json
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.exe
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.deps.json
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.dll
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\Dushyant\Desktop\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.xml
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.dll
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\Dushyant\Desktop\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\appsettings.Development.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\appsettings.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.exe
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.deps.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\ref\FileUploadDownload.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\FileUploadDownload.pdb
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.xml
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\ref\FileUploadDownload.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.pdb
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\libman.json
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\dotnet-projects\Semple\10- File Upload and DOwnload web api .Net Core\obj\Debug\net5.0\FileUploadDownload.csproj.CopyComplete
