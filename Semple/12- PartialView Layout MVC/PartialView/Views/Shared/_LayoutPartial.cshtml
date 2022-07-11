@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div>
+        <header style="background-color:black"> <h1 style="color:white">This is header</h1></header>
+        <a id="view1">View 1</a> <br />
+        <a id="view2">View 1</a> <br />
+        @RenderBody()
+
+        <div id="DivId"></div>
+        <footer style="background-color:black"><h1  style="color:white">Tis is footer</h1> </footer>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('#view1').click(function () {
+                $('#DivId').load('/partial/view1');
+            })
+            $('#view2').click(function () {
+                $('#DivId').load('/partial/view2');
+            })
+        })
+    </script>
+
+</body>
+
+
+</html>
